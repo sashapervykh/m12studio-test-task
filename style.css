@@ -1,0 +1,23 @@
+.body {
+  background-color: black;
+}
+
+.content {
+  margin: 260px 2.5% auto 2.5%;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.content__text {
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 100%;
+  letter-spacing: -4.8px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: center;
+  padding: 0px 1em;
+  font-family: "Golos Text", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
