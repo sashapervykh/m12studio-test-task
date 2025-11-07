@@ -35,7 +35,7 @@
   padding: 0px;
 }
 
-.text__item_end-of-line::after {
+.main-text__item_last::after {
   content: "";
   display: block;
 }
